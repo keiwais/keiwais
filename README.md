@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="65%">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="75%">
 </p>
 
 # 💻 Tech Stack:
